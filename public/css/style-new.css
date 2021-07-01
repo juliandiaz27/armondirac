@@ -160,3 +160,14 @@ select.form-select {
   background: #f5f5f5;
   color: #555;
 }
+
+.videoWrapper video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+}
+
+.section_heading{
+  padding-top: 150px;
+}
